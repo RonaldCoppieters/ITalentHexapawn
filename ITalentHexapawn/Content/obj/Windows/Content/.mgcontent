@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/ArrowLeft.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/ArrowRight.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/LoadButton01.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/LoadButton02.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/LoadButton03.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/LoseButton.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/MenuButton.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/TextField.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Controls/WinButton.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/1.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/2.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/3.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/4.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/5.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/6.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/7.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/8.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Shader/FullShader.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/0.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/1.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/10.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/11.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/12.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/13.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/14.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/15.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/16.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/17.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/18.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/19.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/2.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/20.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/21.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/22.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/23.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/3.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/4.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/5.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/6.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/7.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/8.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/9.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/BoneBlue.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/BoneGreen.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/BoneOrange.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/BonePurple.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/Boxes01.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/Boxes02.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/FoxHello.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Darwin/SpeechBubble.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Gameboard/BlackPawn.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Gameboard/board3x3.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Gameboard/Square.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Gameboard/WhitePawn.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial01.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial02.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial03.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial04.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial05.png</File>
+    <File>C:/Users/Ronald/Documents/ITalent/ITalentHexapawn/ITalentHexapawn/Content/Textures/Tutorial/Tutorial06.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
